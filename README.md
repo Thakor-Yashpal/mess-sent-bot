@@ -2,7 +2,7 @@
 
 # how to use this code on whatsapp 
 
-o use this code to send messages on WhatsApp, you will need to use the WhatsApp API or a third-party library that allows you to interact with the WhatsApp messaging platform.
+ use this code to send messages on WhatsApp, you will need to use the WhatsApp API or a third-party library that allows you to interact with the WhatsApp messaging platform.
 
 Using the WhatsApp API or a third-party library will require you to have some technical knowledge and set up a few things before you can start using the code. Here are the general steps you would need to follow:
 
